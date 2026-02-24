@@ -6,14 +6,23 @@ Machine Learning project for predicting loan default risk using classification m
 ## Project Structure
 
 LoanDefaultRisjPrediction/ <-- project root
+
 ├── data/ # Raw dataset, Processed dataset, Updated dataset and dataset for tableau Visualization
+
 ├── notebooks/ # Jupyter notebooks
+
 ├── src/ # Python package with reusable functions
+
 ├── model / # saved model
+
 ├── images / # saved plots
+
 ├── reports / # Prosal, Final Report
+
 ├── requirements.txt
+
 ├── loandefault_evn / # project environment path
+
 └── README.md
 
 
