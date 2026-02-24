@@ -21,9 +21,6 @@ LoanDefaultRisjPrediction/ <-- project root
 
 ├── requirements.txt
 
-├── loandefault_evn / # project environment path
-
-└── README.md
 
 
 ---
